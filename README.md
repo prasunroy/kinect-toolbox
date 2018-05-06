@@ -38,6 +38,12 @@ python app.py
   <img src='https://github.com/prasunroy/kinect-toolbox/raw/master/assets/image_2.png' />
 </p>
 
+## References
+
+>[GUI animation](https://github.com/prasunroy/kinect-toolbox/raw/master/assets/anim.gif) is obtained from [Reddit](https://i.redd.it/ounq1mw5kdxy.gif).
+
+>[Git Logo](https://github.com/prasunroy/kinect-toolbox/raw/master/assets/button_repo.png) is designed by [Jason Long](https://github.com/jasonlong) made available under [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en).
+
 ## License
 MIT License
 
